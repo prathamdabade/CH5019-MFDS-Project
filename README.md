@@ -6,4 +6,4 @@ The code and related files pertain to the course project of CH5019 at IIT Madras
 * Prathamesh Dabade
 * Shreyas Paranjpe
 * Sidharth Tadeparti
-* Shreyas Peendse
+* Shreyas Pendse
